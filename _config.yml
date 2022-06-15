@@ -9,7 +9,7 @@ actors:
     url: http://sns.example.com/alice
 author: harusamecast
 description: 春雨Castは東京でWebエンジニアをしている2人が気になっているトピックについてお互いに質問していくポッドキャストです
-description_long: 春雨Castは東京でWebエンジニアをしている2人が気になっているトピックについてお互いに質問していくポッドキャストです
+description_long: 東京でWebエンジニアをしている2人が気になっているトピックについてお互いに質問していくポッドキャスト
 email: info@example.com
 exclude:
   - docker
