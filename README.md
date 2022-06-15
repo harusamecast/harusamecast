@@ -1,3 +1,3 @@
-# Yattecast
+# 春雨Cast
 
-https://r7kamura.github.io/yattecast/
+https://harusamecast.github.io/
