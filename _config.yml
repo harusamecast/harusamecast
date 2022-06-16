@@ -1,15 +1,15 @@
 actors:
   yamagata:
-    image_url: /images/actors/bob.png
+    image_url: /images/actors/zochang.jpg
     name: yamagata
-    url: http://sns.example.com/bob
+    url: https://zochang.com
   tachibana:
-    image_url: /images/actors/alice.png
+    image_url: /images/actors/shwld.jpeg
     name: tachibana
     url: http://sns.example.com/alice
 author: harusamecast
-description: 春雨Castは東京でWebエンジニアをしている2人が気になっているトピックについてお互いに質問していくポッドキャストです
-description_long: 東京でWebエンジニアをしている2人が気になっているトピックについてお互いに質問していくポッドキャスト
+description: 東京でWebエンジニアをしている二人が、気になっているトピックについてお互いに質問していくポッドキャストです。
+description_long: 東京でWebエンジニアをしている二人が、気になっているトピックについてお互いに質問していくポッドキャストです。
 email: info@example.com
 exclude:
   - docker
