@@ -6,7 +6,7 @@ actors:
   tachibana:
     image_url: /images/actors/shwld.jpeg
     name: tachibana
-    url: http://sns.example.com/alice
+    url: https://twitter.com/shwld
 author: harusamecast
 description: 東京でWebエンジニアをしている二人が、気になっているトピックについてお互いに質問していくポッドキャストです。
 description_long: 東京でWebエンジニアをしている二人が、気になっているトピックについてお互いに質問していくポッドキャストです。
