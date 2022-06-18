@@ -10,7 +10,7 @@ actors:
 author: harusamecast
 description: 東京でWebエンジニアをしている二人が、気になっているトピックについてお互いに質問していくポッドキャストです。
 description_long: 東京でWebエンジニアをしている二人が、気になっているトピックについてお互いに質問していくポッドキャストです。
-email: info@example.com
+email: shu.account@outlook.com
 exclude:
   - docker
   - docker-compose.yml
