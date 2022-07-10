@@ -1,12 +1,16 @@
 actors:
   yamagata:
     image_url: /images/actors/zochang.jpg
-    name: yamagata
+    name: Yamagata
     url: https://zochang.com
   tachibana:
     image_url: /images/actors/shwld.jpeg
-    name: tachibana
+    name: Tachibana
     url: https://twitter.com/shwld
+  gyo:
+    image_url: /images/actors/gyo.png
+    name: Gyo
+    url: https://github.com/blueplanet
 author: harusamecast
 description: 東京でWebエンジニアをしている二人が、気になっているトピックについてお互いに質問していくポッドキャストです。
 description_long: 東京でWebエンジニアをしている二人が、気になっているトピックについてお互いに質問していくポッドキャストです。
