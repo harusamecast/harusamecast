@@ -11,6 +11,10 @@ actors:
     image_url: /images/actors/gyo.png
     name: Gyo
     url: https://twitter.com/blueplanet42
+  kara_mage:
+    image_url: /images/actors/kara_mage.jpeg
+    name: Kara_mage
+    url: https://twitter.com/kara_mage
 author: harusamecast
 description: 東京でWebエンジニアをしている二人が、気になっているトピックについてお互いに質問していくポッドキャストです。
 description_long: 東京でWebエンジニアをしている二人が、気になっているトピックについてお互いに質問していくポッドキャストです。
